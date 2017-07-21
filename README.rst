@@ -26,3 +26,9 @@ Compatibility
 -------------
 
 The designed hardware and Nios II software is compatible with the **UviSpace** main controller software version 1.0.0
+
+--------------
+Important note
+--------------
+
+This project is deprecated and not stable. It was the basis for designing the **UviSpace** DE1-SoC hardware, and is kept for historical reasons. However, there are some issues regargind the hardware design, and it cannot be compiled directly to the board. 
